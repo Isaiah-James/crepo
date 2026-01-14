@@ -1,0 +1,9 @@
+[submodule "rtl"]
+	path = rtl
+	url = https://github.com/Isaiah-James/CREO-RTL.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/Isaiah-James/CREO-Frontend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Isaiah-James/CREO-Backend.git
