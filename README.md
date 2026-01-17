@@ -49,4 +49,4 @@ Each submodule is an independent repository with its own lifecycle, tooling, CI/
 
 ### Public users
 ```bash
-git clone https://github.com/creo/crepo.git
+git clone https://github.com/Isaiah-James/crepo.git
