@@ -37,8 +37,6 @@ Each submodule is an independent repository with its own lifecycle, tooling, CI/
 | `CREO-Frontend` | Private | Main web application and user interface |
 | `CREO-Backend` | Private | Core APIs, domain logic, identity, and services |
 | `CREO-RTL` | Private | Real-time layer (eventing, messaging, presence, signaling) |
-| `CREO-Praetor` | Public | Local runtime, client shell, and device-level orchestration |
-| `CREO-OSS` | Public | OpenSource SDKs, tools, and community projects |
 
 > ⚠️ Private submodules are intentionally inaccessible to the public.
 > Attempting to initialize them without permission will fail.
